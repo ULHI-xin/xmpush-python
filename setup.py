@@ -10,9 +10,7 @@ kw = dict(
     author_email='mipush-support@xiaomi.com',
     url='http://dev.xiaomi.com/mipush/downpage',
     download_url='http://dev.xiaomi.com/mipush/downpage',
-    packages=['xmpush'],
-    # py_modules=['base.APIConstants', 'base.APIError', 'base.APIMessage', 'base.APIHostSwitch', 'base.APISenderBase',
-    #             'APISender', 'APITools', 'APISubscribe', 'APIDemo'],
+    packages=['xmpush', 'xmpush.base'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',

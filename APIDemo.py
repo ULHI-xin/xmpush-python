@@ -9,7 +9,7 @@ sender = APISender('APP_SECRET')
 
 # build android message
 message = PushMessage() \
-    .restricted_package_name('com.glow.android.gongleyun') \
+    .restricted_package_name('YOUR_APP_PACKAGE') \
     .title('这是一条测试消息').description('这是一条测试消息') \
     .pass_through(0).payload('payload') \
     .extra({Constants.extra_param_notify_effect: Constants.notify_launcher_activity})
