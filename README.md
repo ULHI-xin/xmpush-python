@@ -20,5 +20,7 @@ pip install xmpush-python-1.0.3.tar.gz
 
 ## Licence
 Apache 2.0
+
 The original SDK by Xiaomi is developed under `Apache Software License` and it's not modified.
+
 I cannot find any license declaration in the original copy of code.
