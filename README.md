@@ -1,5 +1,6 @@
 # xmpush-python
-A *python3* library forked from [Xiaomi push python SDK](https://dev.mi.com/mipush/downpage/python.html)
+A **python3** library forked from [Xiaomi push python SDK](https://dev.mi.com/mipush/downpage/python.html)
+
 The main purpose is to support distribute this SDK via PyPI.
 
 ## Latest changes
